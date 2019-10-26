@@ -4,9 +4,14 @@ You can use the [editor on GitHub](https://github.com/chenyuan99/es4safe/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Video Prototype
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Director/Actor: Yuxuan Wang
+Storyboard/Screenwriter: Jinyang Li
+Wireframe/Cameraman: Yuan Chen
+Spirit Support: Peilin Li
+
+[Video Prototype](https://www.youtube.com/watch?v=ZA6TmqqQFEA)
 
 ```markdown
 Syntax highlighted code block
