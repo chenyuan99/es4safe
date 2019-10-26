@@ -7,8 +7,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Video Prototype
 
 Director/Actor: Yuxuan Wang
+
 Storyboard/Screenwriter: Jinyang Li
+
 Wireframe/Cameraman: Yuan Chen
+
 Spirit Support: Peilin Li
 
 [Video Prototype](https://www.youtube.com/watch?v=ZA6TmqqQFEA)
