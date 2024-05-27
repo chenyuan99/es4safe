@@ -1,4 +1,4 @@
-# ES4Safe
+# ES4Safe: Electric Scooter Safety App
 
 
 ### Video Prototype
